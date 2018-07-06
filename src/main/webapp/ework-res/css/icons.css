@@ -1,0 +1,341 @@
+.icon-house_go1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/house_go.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-house1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/house.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-cancel1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/cancel.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-ok1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/ok.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-accept1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/accept.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-cancel1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/cancel.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-no1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/no.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-clear1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/clear.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-flag_blue1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/flag_blue.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-flag_red1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/flag_red.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-undo1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/undo.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-reload1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/reload.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-lock1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/lock.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-search1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/search.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-shape_square_edit1 {
+	background:
+		url(../jquery/jquery.easyui/1.4/themes/icons/shape_square_edit.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-tip1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/tip.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-print1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/print.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-sys {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -320px -420px;
+}
+
+.icon-users {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -100px -480px;
+}
+
+.icon-role {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -360px -200px;
+}
+
+.icon-set {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -380px -200px;
+}
+
+.icon-log {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -380px -80px;
+}
+
+.icon-jcpz {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -20px -100px;
+}
+
+.icon-czan {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -320px -60px;
+}
+
+.icon-bj {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -380px -320px;
+}
+
+.icon-ck {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -200px -20px;
+}
+
+.icon-sc {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -340px -40px;
+}
+
+.icon-fpqx {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -0px -220px;
+}
+
+.icon-key_delete1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/key_delete.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-cut1 {
+	background: url(../jquery/jquery.easyui/1.4/themes/icons/cut.png)
+		no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-open1 {
+	background: url(../images/icon/open.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-filesaveas1 {
+	background: url(../images/icon/filesaveas.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-error1 {
+	background: url(../images/icon/error.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-mus {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -0px -280px;
+}
+
+.icon-tu1 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -120px -260px;
+}
+
+.icon-su {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -0px -260px;
+}
+
+.icon-su1 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -18px -260px;
+}
+
+.icon-exe1 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -260px -280px;
+}
+
+.icon-cp1 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -0px -180px;
+}
+
+.icon-xf {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -160px -180px;
+}
+
+.icon-xf1 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -140px -180px;
+}
+
+.icon-xf2 {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -380px -180px;
+}
+
+.icon-xp {
+	background: url(../images/tabicons.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+	background-position: -140px -80px;
+}

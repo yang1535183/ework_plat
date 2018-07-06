@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:tx="http://www.springframework.org/schema/tx" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+		http://www.springframework.org/schema/beans/spring-beans-2.5.xsd 
+		http://www.springframework.org/schema/tx 
+		http://www.springframework.org/schema/tx/spring-tx-2.5.xsd 
+		http://www.springframework.org/schema/jee 
+		http://www.springframework.org/schema/jee/spring-jee-2.5.xsd 
+		http://www.springframework.org/schema/context 
+		http://www.springframework.org/schema/context/spring-context-2.5.xsd"
+	default-lazy-init="true" default-autowire="byName">
+	
+	<!-- 系统基础代码管理：开始 -->
+	<bean id="basicCodeManager" class="com.diiwon.mis.plat.base.vojo.BasicCodeManager">
+		<property name="platTitle" value="${platTitle}" />
+		<property name="platName" value="${platName}" />
+		<property name="platUrl" value="${platUrl}" />
+		<property name="platAdcode" value="${platAdcode}" />
+		<property name="platAdname" value="${platAdname}" />
+	</bean>
+	<bean id="basicSecurityManager" class="com.diiwon.mis.plat.base.service.OnlineService" />
+	<!-- 系统基础代码管理：结束 -->
+	
+	<!-- 加载缓存类 -->
+	<bean id="sysTemcache" class="com.diiwon.mis.plat.base.cache.imp.UserProperties" />
+	<bean id="systemCache" class="com.diiwon.mis.plat.base.cache.imp.SystemCache">
+		<property name="loadClass">
+			<list>
+				<!-- 需要在启动时运行的缓存实现类Bean Id -->
+				<value>sysTemcache</value>
+			</list>
+		</property>
+	</bean>
+	
+	<!-- SpringMVC上传文件时，需要配置MultipartResolver处理器 -->
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<property name="defaultEncoding" value="UTF-8" />
+		<!-- 指定所上传文件的总大小,单位字节。注意maxUploadSize属性的限制不是针对单个文件，而是所有文件的容量之和 -->
+		<property name="maxUploadSize" value="10240000" />
+	</bean>
+	
+</beans>

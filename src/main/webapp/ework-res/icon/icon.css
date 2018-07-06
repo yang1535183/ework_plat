@@ -1,0 +1,508 @@
+.icon-ht{
+	background: url(imgs/ht.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szsc{
+	background: url(imgs/szsc.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szscTab{
+	background: url(imgs/szscTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-zsscTab{
+	background: url(imgs/zsscTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-zssc{
+	background: url(imgs/zssc.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-fjscTab{
+	background: url(imgs/fjscTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-fjsc{
+	background: url(imgs/fjsc.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-Tabchcbj{
+	background: url(imgs/Tabchcbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-chcbj{
+	background: url(imgs/chcbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szbj{
+	background: url(imgs/szbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szbjTab{
+	background: url(imgs/szbjTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szbj{
+	background: url(imgs/szbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-ryTab{
+	background: url(imgs/ryTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-ry{
+	background: url(imgs/ry.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-qxTab{
+	background: url(imgs/qxTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-qx{
+	background: url(imgs/qx.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-fjbjTab{
+	background: url(imgs/fjbjTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-fjbj{
+	background: url(imgs/fjbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-Tabzsbj{
+	background: url(imgs/Tabzsbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-zsbj{
+	background: url(imgs/zsbj.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-chcscTab{
+	background: url(imgs/chcscTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-chcsc{
+	background: url(imgs/chcsc.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-Tabszsp{
+	background: url(imgs/Tabszsp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-szsp{
+	background: url(imgs/szsp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-Tabfjsp{
+	background: url(imgs/Tabfjsp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-fjsp{
+	background: url(imgs/fjsp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-zsspTab{
+	background: url(imgs/zsspTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-zssp{
+	background: url(imgs/zssp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-chcspTab{
+	background: url(imgs/chcspTab.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-chc{
+	background: url(imgs/chc.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-Tabsp{
+	background: url(imgs/Tabsp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-sp{
+	background: url(imgs/sp.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-js{
+	background: url(imgs/js.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-jsTab{
+	background: url(imgs/jsTab.png) no-repeat;
+	width: 16px;
+	line-height: 16px;
+	display: inline-block;
+}
+
+.icon-redo {
+	background: url(imgs/redo.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-shape_square_edit {
+	background: url(imgs/shape_square_edit.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-computer_edit {
+	background: url(imgs/computer_edit.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-computer {
+	background: url(imgs/computer.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-computer_go {
+	background: url(imgs/computer_go.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-application_form {
+	background: url(imgs/application_form.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-book_link {
+	background: url(imgs/book_link.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-image_link {
+	background: url(imgs/image_link.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-image {
+	background: url(imgs/image.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-film {
+	background: url(imgs/film.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-refresh {
+	background: url(imgs/refresh.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-magnifier {
+	background: url(imgs/magnifier.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-info {
+	background: url(imgs/info.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-sound {
+	background: url(imgs/sound.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-house {
+	background: url(imgs/house.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-book_edit {
+	background: url(imgs/book_edit.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-book_open {
+	background: url(imgs/book_open.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-book {
+	background: url(imgs/book.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-door {
+	background: url(imgs/door.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_clouds {
+	background: url(imgs/weather_clouds.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_cloudy {
+	background: url(imgs/weather_cloudy.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_lightning {
+	background: url(imgs/weather_lightning.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_rain {
+	background: url(imgs/weather_rain.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_snow {
+	background: url(imgs/weather_snow.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-weather_sun {
+	background: url(imgs/weather_sun.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-xhtml {
+	background: url(imgs/xhtml.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-wrench {
+	background: url(imgs/wrench.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-wrench_orange {
+	background: url(imgs/wrench_orange.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-exclamation {
+	background: url(imgs/exclamation.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-error {
+	background: url(imgs/error.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-cross {
+	background: url(imgs/cross.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-error_delete {
+	background: url(imgs/error_delete.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-tick {
+	background: url(imgs/tick.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-add1{
+	background:url('imgs/edit_add.png') no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-add1{
+	background:url('imgs/edit_add.png') no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-pencil1 {
+	background: url(imgs/pencil.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-folder_magnify1 {
+	background: url(imgs/folder_magnify.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-folder_star {
+	background: url(imgs/folder_star.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-folder_key {
+	background: url(imgs/folder_key.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+.icon-arrow_refresh1 {
+	background: url(imgs/arrow_refresh.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer {
+	background: url(imgs/computer.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_add {
+	background: url(imgs/computer_add.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_delete {
+	background: url(imgs/computer_delete.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_edit {
+	background: url(imgs/computer_edit.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_error {
+	background: url(imgs/computer_error.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_go {
+	background: url(imgs/computer_go.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_key {
+	background: url(imgs/computer_key.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}
+
+.icon-computer_link{
+	background: url(imgs/computer_link.png) no-repeat;
+	width: 18px;
+	line-height: 18px;
+	display: inline-block;
+}

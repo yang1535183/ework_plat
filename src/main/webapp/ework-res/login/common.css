@@ -1,0 +1,250 @@
+body {
+	margin: 0;
+	padding: 0;
+	padding-top: 100px;
+	font-size: 9pt;
+	font-family: "Microsoft YaHei";
+	line-height: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+/* 	background-image: url(ui/bg-pattern-top.png); */
+	background-repeat: repeat-x;
+	background-position: left -165px;
+}
+#forget{
+	padding-left: 96px;
+}
+
+.f-login .f-login-header {
+	width: 1023px;
+	height: 60px;
+	margin: auto;
+	margin-bottom: 10px;
+	position: relative
+}
+
+.f-login .f-login-header .f-login-logo {
+	background-image: url(img/loginLogo.png);
+	position: absolute;
+	left: -111px;
+	top: -74px
+}
+
+.f-login .f-login-header .f-login-logo a {
+	display: block;
+	width: 620px;
+	height: 91px;
+	text-indent: -9999px;
+	background-image: url(img/loginLogo.png);
+	background-repeat: no-repeat;
+}
+
+.f-login .f-login-header .f-login-area {
+	position: absolute;
+	left: 300px;
+	bottom: 2px;
+	font-size: 18px;
+	line-height: 30px;
+	color: #666;
+	background: #ccc;
+	padding-left: 5px;
+	padding-right: 5px
+}
+
+.f-login .f-login-header .f-login-nav {
+	position: absolute;
+	right: 2px;
+	bottom: 13px;
+}
+
+.f-login .f-login-header .f-login-nav a {
+	padding-left: 2px;
+	padding-right: 2px
+}
+.f-login-content{
+	height:400px;
+}
+.f-login .f-login-content {
+	 background: url(img/login_main.png) center center no-repeat #DEEAEB;
+	 background-size: 97% 400px;
+}
+
+.f-login .f-login-content .f-login-content-main {
+	width: 900px;
+	height: 360px;
+	margin: auto;
+	position: relative
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame {
+	height: 260px;
+	width: 300px;
+	position: absolute;
+	top: 40px;
+	right: 16px;
+	background-color: white;
+	border: 1px solid #999;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3)
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .title {
+	height: 40px;
+	background-image: -moz-linear-gradient(top, #fff, #e9eef1);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff),
+		color-stop(1, #e9eef1) );
+	background-color: #f4f7f8;
+	border-bottom: 1px solid #ddd;
+	line-height: 40px;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0 20px 0 20px;
+	color: #999
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form {
+	padding: 30px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .input-prepend:first-child
+	{
+	margin-bottom: 20px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .add-on
+	{
+	padding-left: 16px;
+	padding-right: 15px;
+	padding-top: 8px;
+	font-weight: bold;
+	font-size: 12px;
+	color: #999
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .input-small
+	{
+	width: 170px;
+	font-size: 9pt;
+	font-family: "Microsoft YaHei";
+	line-height: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	font-family: Verdana
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .check
+	{
+	overflow: hidden;
+	zoom: 1;
+	margin-bottom: 10px;
+	padding: 0 2px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .check .autologin
+	{
+	float: left;
+	font-size: 9pt;
+	font-family: "Microsoft YaHei";
+	line-height: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .check .forget
+	{
+	float: right;
+	line-height: 30px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .buttons
+	{
+	overflow: hidden;
+	zoom: 1;
+	padding-top: 10px;
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .buttons .login
+	{
+	font-size: 9pt;
+	font-family: "Microsoft YaHei";
+	line-height: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 14px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 8px;
+	padding-bottom: 8px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .form .buttons .register
+	{
+	float: right;
+	font-size: 9pt;
+	font-family: "Microsoft YaHei";
+	line-height: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px
+}
+
+.f-login .f-login-content .f-login-content-main .f-login-frame .tip {
+	position: absolute;
+	bottom: 0;
+	line-height: 30px;
+	height: 30px;
+	background-image: -moz-linear-gradient(top, #f8f9fa, #fff);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f8f9fa),
+		color-stop(1, #fff) );
+	background-color: #fcfcfd;
+	border-top: 1px solid #f1f3f5;
+	width: 300px;
+	text-align: center;
+	color: #999
+}
+
+.f-login .f-login-footer {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #f7f7f7;
+}
+
+.f-login .f-login-footer .f-login-footer-main {
+	width: 900px;
+	margin: auto;
+	overflow: hidden;
+	zoom: 1;
+	color: #999
+}
+
+.f-login .f-login-footer .f-login-footer-main .copyright {
+	text-align: center;
+}
+
+.f-login .f-login-footer .f-login-footer-main .icp {
+	float: right;
+	line-height: 40px
+}
+
+.tx_text {
+	color: #F20808;
+	font-size: 12px;
+	height: 12px;
+	line-height: 12px;
+	vertical-align: middle;
+	width: 240px;
+}
